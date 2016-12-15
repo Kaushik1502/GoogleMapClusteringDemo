@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/kaushik/Desktop/GoogleMapClusteringDemo/library/build/intermediates/res/merged/androidTest/debug/layout/amu_text_bubble.xml",
+        "source": "/home/kaushik/Desktop/GoogleMapClusteringDemo/library/build/intermediates/bundles/debug/res/layout/amu_text_bubble.xml"
+    },
+    {
+        "merged": "/home/kaushik/Desktop/GoogleMapClusteringDemo/library/build/intermediates/res/merged/androidTest/debug/layout/amu_info_window.xml",
+        "source": "/home/kaushik/Desktop/GoogleMapClusteringDemo/library/build/intermediates/bundles/debug/res/layout/amu_info_window.xml"
+    },
+    {
+        "merged": "/home/kaushik/Desktop/GoogleMapClusteringDemo/library/build/intermediates/res/merged/androidTest/debug/layout/amu_webview.xml",
+        "source": "/home/kaushik/Desktop/GoogleMapClusteringDemo/library/build/intermediates/bundles/debug/res/layout/amu_webview.xml"
+    }
+]
